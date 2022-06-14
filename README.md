@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BlackieOBrien
+- 👋 Hi, I’m @PaulAnkers
 - 👀 I’m interested in R Studio code examples
 - 🌱 I’m currently learning linux and shiny
 - 💞️ I’m looking to collaborate on building dashboards
